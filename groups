@@ -1,3 +1,5 @@
-# UUID                                  	Group Name
-#
-f5a5efe0585b5b15a806132e52e68a4c6ec834e6	puppet/puppet-vitrage-distgit-ptl
+# UUID          Group Name
+False 	Non-Interactive Users
+55c72784d36ace0f910679b003db1f3bef2cfffd       	puppet/puppet-vitrage-distgit-core
+f5a5efe0585b5b15a806132e52e68a4c6ec834e6        	puppet/puppet-vitrage-distgit-ptl
+global:Registered-Users		Registered Users
