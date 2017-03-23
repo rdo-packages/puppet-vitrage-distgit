@@ -22,6 +22,30 @@
       "revId": "8efa95985ccba8ee1d43b7f9c05065eb95950ec1",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa98f980_e11ff0b5",
+        "filename": "puppet-vitrage.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 185
+      },
+      "writtenOn": "2017-03-23T08:07:29Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fa98f980_a1e6c814",
+      "range": {
+        "startLine": 18,
+        "startChar": 0,
+        "endLine": 18,
+        "endChar": 31
+      },
+      "revId": "8efa95985ccba8ee1d43b7f9c05065eb95950ec1",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
     }
   ]
 }
