@@ -16,6 +16,24 @@
       "revId": "4c1b3a07e987ae1dc4e70bcc10555a21be9a025d",
       "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa81d914_441a696f",
+        "filename": "puppet-vitrage.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 128
+      },
+      "writtenOn": "2017-10-30T17:28:42Z",
+      "side": 1,
+      "message": "thanks, make sense. i\u0027ll send it",
+      "parentUuid": "fa81d914_e4127d57",
+      "revId": "4c1b3a07e987ae1dc4e70bcc10555a21be9a025d",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
     }
   ]
 }
