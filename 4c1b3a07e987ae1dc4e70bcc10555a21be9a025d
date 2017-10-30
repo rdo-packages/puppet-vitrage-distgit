@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa81d914_e4127d57",
+        "filename": "puppet-vitrage.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 87
+      },
+      "writtenOn": "2017-10-30T17:25:28Z",
+      "side": 1,
+      "message": "missing %endif and typo in name\n\nActually, I\u0027d just do something like\n%if 0%{?dlrn}\n%global tarname openstack-vitrage\n%else\n%global tarname %{name}\n%endif\n\nand use %{tarname}",
+      "revId": "4c1b3a07e987ae1dc4e70bcc10555a21be9a025d",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
