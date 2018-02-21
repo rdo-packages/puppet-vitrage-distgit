@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aaa499b_0214f1f2",
+        "filename": "puppet-vitrage.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 49,
+      "author": {
+        "id": 403
+      },
+      "writtenOn": "2018-02-21T09:02:25Z",
+      "side": 1,
+      "message": "This should be handled, otherwise we may hit it again.",
+      "revId": "a0d23cdc22fbf07579c2bc8208e7ced43641f0e5",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
