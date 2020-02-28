@@ -49,4 +49,3 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/vitrage/
 * Fri Oct 04 2019 RDO <dev@lists.rdoproject.org> 5.4.0-1
 - Update to 5.4.0
 
-
