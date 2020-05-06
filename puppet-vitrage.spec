@@ -1,7 +1,7 @@
 %{!?upstream_version: %global upstream_version %{version}%{?milestone}}
 Name:           puppet-vitrage
-Version:        XXX
-Release:        XXX
+Version:        6.3.0
+Release:        1%{?dist}
 Summary:        Puppet module for OpenStack Vitrage
 License:        ASL 2.0
 
@@ -46,4 +46,7 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/vitrage/
 
 
 %changelog
+* Wed May 06 2020 RDO <dev@lists.rdoproject.org> 6.3.0-1
+- Update to 6.3.0
+
 
