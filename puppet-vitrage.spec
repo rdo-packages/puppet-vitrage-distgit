@@ -64,3 +64,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/vitrage/
 
 %changelog
 
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-vitrage/commit/838f5ca12dd87f806d2ba335a3bd42b983a20559
